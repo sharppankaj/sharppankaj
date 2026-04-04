@@ -8,9 +8,6 @@
 - Backend: Node.js, Django
 - Databases: MongoDB, PostgreSQL, MySQL
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharppankaj&show_icons=true)
-
 ## 🔗 Connect With Me
 - [X](https://x.com/sharppankaj)
 - [LinkedIn](https://www.linkedin.com/in/pankajjoshidev/)
