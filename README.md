@@ -1,5 +1,20 @@
-## Hi there 👋
+# Hi 👋 I'm Pankaj
 
+**Full-stack developer | Open source enthusiast | Technologist**
+
+## 🛠️ Tech Stack
+- Languages: Python, JavaScript, C/C++
+- Frontend: React, Next.js, Tailwind CSS
+- Backend: Node.js, Django
+- Databases: MongoDB, PostgreSQL, MySQL
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sharppankaj&show_icons=true)
+
+## 🔗 Connect With Me
+- [X](https://x.com/sharppankaj)
+- [LinkedIn](https://www.linkedin.com/in/pankajjoshidev/)
+- [Portfolio](https://pankajjoshi.info.np)
 <!--
 **sharppankaj/sharppankaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
