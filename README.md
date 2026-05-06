@@ -1,6 +1,6 @@
 # Hi 👋 I'm Pankaj
 
-**Full-stack developer | Open source enthusiast | Technologist**
+**Full-stack + AI developer | Open source enthusiast | Technologist**
 
 ## 🛠️ Tech Stack
 - Languages: Python, JavaScript, C/C++
